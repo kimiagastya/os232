@@ -1,3 +1,4 @@
+ZCZC W02 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 10 L12 Fix Assignment #02
 ZCZC W02 60 L12 Assignment #02
 ZCZC W01 30 L11 Update directory
