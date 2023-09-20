@@ -4,11 +4,10 @@ permalink: LINKS/
 
 # LINKS
 
-1. [Operating System] https://en.wikipedia.org/wiki/Operating_system <br>
-Understand operating systems in general
+1. [Operating System](https://en.wikipedia.org/wiki/Operating_system)
+   Understand operating systems in general
 
-2. [Operating System, Neso Academy] https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=1UjHpqbXFX_D2Wvh <br>
-A Youtube playlist of Operating System course by Neso Academy
+2. [Operating System, Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=1UjHpqbXFX_D2Wvh)     A Youtube playlist of Operating System course by Neso Academy
 
-<br>
-<hr>
+3. [Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw?si=nu5xVKuWFdim2mgI)
+   Understanding Linux file system
