@@ -11,3 +11,6 @@ permalink: LINKS/
 
 3. [Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw?si=nu5xVKuWFdim2mgI)
    Understanding Linux file system
+
+4. [C pointers 👉](https://youtu.be/DplxIq0mc_Y?si=N9IumBVY7JToWXy8)
+   Short video to understand pointers in C programming language
