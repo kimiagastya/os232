@@ -14,3 +14,6 @@ permalink: LINKS/
 
 4. [C pointers 👉](https://youtu.be/DplxIq0mc_Y?si=N9IumBVY7JToWXy8)
    Short video to understand pointers in C programming language
+
+5. [Virtual Memory]([https://youtu.be/DplxIq0mc_Y?si=N9IumBVY7JToWXy8](https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=VcbSZ2L33IQChFsv)https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=VcbSZ2L33IQChFsv)
+   A Youtube playlist made by David Black-Schaffer to learn more about virtual memory
