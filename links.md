@@ -20,3 +20,6 @@ permalink: LINKS/
 
 6. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
    Notes on GitHub to help you understands Threads and Concurrency
+   
+7. [Deadlock and Synchronization](https://jaypatel1210.github.io/Deadlocak-Synchronization-os/)
+   A GitHub page about every concepts and algorithm in this topic
