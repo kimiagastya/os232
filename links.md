@@ -23,3 +23,6 @@ permalink: LINKS/
    
 7. [Deadlock and Synchronization](https://jaypatel1210.github.io/Deadlocak-Synchronization-os/)
    A GitHub page about every concepts and algorithm in this topic
+   
+8. [CPU Scheduling | Chapter-5 | Operating System](https://youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk&si=5jUjf7_Fmo3t6_Xx)
+   A Youtube playlist made by wonderful people at Neso Academy explaining about Scheduling
